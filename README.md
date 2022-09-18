@@ -22,4 +22,4 @@ To install, simply clone the project and run "npm i" to install the required dep
 As stated in the description, since there is no front end provided, the API may either be used and paired with a front end of your choice or simply tested with Insomnia. Run the server ("node index in your command line") and look in the routes folder to view or edit your API routes.
 
 ## Demo
-![App Demo](https://user-images.githubusercontent.com/102436216/190885804-137d1498-6796-4909-b6d6-d95cc25bc518.mp4)
+[App Demo](https://user-images.githubusercontent.com/102436216/190885804-137d1498-6796-4909-b6d6-d95cc25bc518.mp4)
