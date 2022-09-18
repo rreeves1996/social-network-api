@@ -14,7 +14,7 @@ const userSchema = new Schema (
             type: String,
             required: true,
             unique: true,
-            match: [isEmail, 'Please enter valid email'],
+            validate: [isEmail, 'Please enter valid email'],
             trim: true
         },
         thoughts: [
